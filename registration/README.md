@@ -1,5 +1,10 @@
 Project Title: Secure Access
 
+
+![Screenshot (76)](https://github.com/Pratik298686/Django-Projects/assets/85446883/b2cb8c15-a8de-4a9e-a9b6-19f15051bc2c)
+
+![Screenshot (77)](https://github.com/Pratik298686/Django-Projects/assets/85446883/3639476b-ab2e-4c1d-b426-d6e99201e5b8)
+
 Project Summary:
 
 The "Secure Access" is a web application that provides user registration and login functionality. Users can register for an account, and upon successful registration, they can log in securely. This project is implemented using the Django framework and follows a standard authentication flow for user management.
